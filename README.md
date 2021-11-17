@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Fangxi-Xu
-- 🌱 I’m currently working on 16s microbiome analysis
+- 🌱 I’m currently working on 16S rRNA sequencing data analysis
+
 
 <!---
 Fangxi-Xu/Fangxi-Xu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
