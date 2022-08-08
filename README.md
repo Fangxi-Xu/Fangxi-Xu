@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Fangxi-Xu
-- 🌱 I’m currently working on 16S rRNA gene sequencing data analysis
+- 🌱 I’m currently working on the analysis of 16S rRNA gene sequencing data and Shotgun Metagenomic Sequencing data
+- ✨ I'm interested in doing bulk RNA Seq and SC-RNA Seq analysis
 
 
 <!---
