@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fangxi-Xu
-- ✨ I’m currently working on the analysis of Shotgun Metagenomic Sequencing and SC-RNA Seq data
+- ✨ I’m a bioinformatican working on NGS data analysis
 - 😊 I like to learn new analysis tools and data visualization tools for different NGS data
 
 
